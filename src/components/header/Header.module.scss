@@ -1,0 +1,16 @@
+.header {
+  background: linear-gradient(rgb(0, 0, 0), #141414);
+}
+.toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.input {
+  background-color: rgba(187, 210, 230, 0.365);
+  width: 400px;
+}
+input::placeholder {
+  color: rgb(219, 234, 254,);
+}
